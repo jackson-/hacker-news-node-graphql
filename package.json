@@ -1,0 +1,14 @@
+{
+  "name": "hacker-news-node-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jackson-/hacker-news-node-graphql.git",
+  "author": "jackson- <jackson.t.devin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.1"
+  }
+}
